@@ -1,0 +1,13 @@
+input{margin:10px;
+}
+#button1{margin-top: 25px;margin-bottom: 25px;
+}
+#button2{margin-top: 25px;margin-bottom: 25px;
+}
+#Div1{border: 1px solid green;
+    padding: 10px; background-color: greenyellow; 
+    border-radius: 10px; width: 50%;margin-top: 25px;}
+    #Div2{border: 1px solid green;
+        padding: 10px; background-color: red; 
+        border-radius: 10px; width: 50%;}
+    
